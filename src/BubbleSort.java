@@ -26,6 +26,4 @@ public class BubbleSort {
         long time = System.nanoTime() - start;
         return new SortResult(a, time, steps);
     }
-}public class BubbleSort {
-    
 }
